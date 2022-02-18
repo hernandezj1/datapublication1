@@ -26,6 +26,7 @@ nav#navbar{
 div#full{
     background-color:cadetblue;
     margin-top: 0px;
+    margin-bottom: 20px;
 }
 
 
@@ -45,12 +46,24 @@ p#description{
     background-color: white;
     
 }
+p#paragraph2{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    background-color: white;
+    
+}
+p#paragraph2:first-letter{
+    font-size: 200%;
+    float:left;
+}
 p#paragraph{
     font-size: 16px;
     font-family: 'Times New Roman', Times, serif;
     border-style: solid;
     background-color: white;
 }
+
 p#element { 
     display:block;
     color: green; 
@@ -68,4 +81,29 @@ div#java2{
     border: black;
     border-style: solid;
     
+}
+
+div#table{
+    background-color: white;
+    border: black;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer#foot{
+
+  font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 200;
+    background-color: burlywood;
+    margin-top: 20px;
+    margin-bottom: 0px;
+   
+    bottom: 0;
+    width:100%;
+    
+}
+
+#map{
+    height: 400px;
+    width: 100%;
 }
