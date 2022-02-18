@@ -1,0 +1,109 @@
+html{
+    background-color: cadetblue;
+}
+h1#title{ 
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    background-color:lavenderblush;
+    margin-bottom: 0px;
+}
+p#guide{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    text-align: center;
+}
+nav#navbar{
+    font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 200;
+    background-color: burlywood;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+div#full{
+    background-color:cadetblue;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+
+div#image{
+    height: 600px;
+    width: 300px; 
+    text-align: center; 
+
+}
+
+p#description{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    
+    text-align: center;
+    background-color: white;
+    
+}
+p#paragraph2{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    background-color: white;
+    
+}
+p#paragraph2:first-letter{
+    font-size: 200%;
+    float:left;
+}
+p#paragraph{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: solid;
+    background-color: white;
+}
+
+p#element { 
+    display:block;
+    color: green; 
+}
+div#button{
+    text-align: center;
+}
+
+div#java{
+    background-color: cadetblue;
+    border: black;
+}
+div#java2{
+    background-color: white;
+    border: black;
+    border-style: solid;
+    
+}
+
+div#table{
+    background-color: white;
+    border: black;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer#foot{
+
+  font-size: 18px;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 200;
+    background-color: burlywood;
+    margin-top: 20px;
+    margin-bottom: 0px;
+   
+    bottom: 0;
+    width:100%;
+    
+}
+
+#map{
+    height: 400px;
+    width: 100%;
+}
